@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Add various QOL mods
+
 ## 1.1.0
 
 - Update MagicalMounts to 1.7.3

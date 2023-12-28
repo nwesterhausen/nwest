@@ -1,6 +1,6 @@
 {
   "name": "nwest_modpack",
-  "version_number": "1.1.0",
+  "version_number": "1.2.0",
   "description": "A modpack for the NWest server",
   "website_url": "https://github.com/nwesterhausen/nwest_modpack",
   "dependencies": [
@@ -41,6 +41,16 @@
     "bid-CopperRoofs-0.2.0",
     "bid-ColoredCrystalGlass-0.2.0",
     "Tyrenheim-M3TO_Gizmo_Reloaded-1.3.1",
-    "Marlthon-OdinShipPlus-0.4.5"
+    "Marlthon-OdinShipPlus-0.4.5",
+    "Azumatt-AAA_Crafting-1.3.4",
+    "Azumatt-AzuAreaRepair-1.1.3",
+    "Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.2",
+    "Azumatt-Official_BepInEx_ConfigurationManager-18.0.1",
+    "Azumatt-Where_You_At-1.0.9",
+    "ValheimModding-Jotunn-2.15.2",
+    "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.21",
+    "LTmadness-GumshoeTimerSuite-1.2.0",
+    "FixingDeer-ShipToShoreCam-1.2.2",
+    "LVH-IT-UseEquipmentInWater-0.2.4"
   ]
 }
