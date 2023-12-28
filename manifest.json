@@ -1,6 +1,6 @@
 {
   "name": "nwest_modpack",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "description": "A modpack for the NWest server",
   "website_url": "https://github.com/nwesterhausen/nwest_modpack",
   "dependencies": [
