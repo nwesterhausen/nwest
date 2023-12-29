@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.4.0
+
+- Add AedenthornsEquipMultipleUtilityItems
+- Add DragoonCapes
+- Add Warfare
+- Add RtDItems
+- Add AzuExtendedPlayerInventory
+- Add ValheimArmory
+- Add Therzie Armory, Monstrum and Warfare mods
+
 ## 1.3.0
 
 - De-dup dependency list
