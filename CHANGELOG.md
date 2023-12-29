@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.1
+
+- Update changelog format
+
 ## 1.4.0
 
 - Add AedenthornsEquipMultipleUtilityItems
@@ -9,6 +13,9 @@
 - Add AzuExtendedPlayerInventory
 - Add ValheimArmory
 - Add Therzie Armory, Monstrum and Warfare mods
+
+<details>
+  <summary>Older versions' changelogs</summary>
 
 ## 1.3.0
 
@@ -28,3 +35,4 @@
 ## 1.0.0
 
 Initial Release
+</details>
