@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.1
+
+- De-dup dependency list
+- Update RtDBiomes to 1.5.6
+
 ## 1.2.0
 
 - Add various QOL mods
