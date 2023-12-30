@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.0
+
+- Update RtDMonsters
+- Update
+
+<details>
+  <summary>Older versions' changelogs</summary>
+
 ## 1.4.1
 
 - Update changelog format
@@ -13,9 +21,6 @@
 - Add AzuExtendedPlayerInventory
 - Add ValheimArmory
 - Add Therzie Armory, Monstrum and Warfare mods
-
-<details>
-  <summary>Older versions' changelogs</summary>
 
 ## 1.3.0
 
