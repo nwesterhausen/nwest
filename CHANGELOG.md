@@ -1,12 +1,16 @@
 # Changelog
 
+## 1.6.0
+
+- Updated mods
+
+<details>
+  <summary>Older versions' changelogs</summary>
+
 ## 1.5.0
 
 - Update RtDMonsters
 - Update
-
-<details>
-  <summary>Older versions' changelogs</summary>
 
 ## 1.4.1
 
